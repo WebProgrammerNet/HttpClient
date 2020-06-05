@@ -1,0 +1,11 @@
+C:\Users\Code\source\repos\HttpConfiguration\HttpConfiguration\obj\Debug\netcoreapp3.1\HttpConfiguration.csprojAssemblyReference.cache
+C:\Users\Code\source\repos\HttpConfiguration\HttpConfiguration\obj\Debug\netcoreapp3.1\HttpConfiguration.AssemblyInfoInputs.cache
+C:\Users\Code\source\repos\HttpConfiguration\HttpConfiguration\obj\Debug\netcoreapp3.1\HttpConfiguration.AssemblyInfo.cs
+C:\Users\Code\source\repos\HttpConfiguration\HttpConfiguration\bin\Debug\netcoreapp3.1\HttpConfiguration.exe
+C:\Users\Code\source\repos\HttpConfiguration\HttpConfiguration\bin\Debug\netcoreapp3.1\HttpConfiguration.deps.json
+C:\Users\Code\source\repos\HttpConfiguration\HttpConfiguration\bin\Debug\netcoreapp3.1\HttpConfiguration.runtimeconfig.json
+C:\Users\Code\source\repos\HttpConfiguration\HttpConfiguration\bin\Debug\netcoreapp3.1\HttpConfiguration.runtimeconfig.dev.json
+C:\Users\Code\source\repos\HttpConfiguration\HttpConfiguration\bin\Debug\netcoreapp3.1\HttpConfiguration.dll
+C:\Users\Code\source\repos\HttpConfiguration\HttpConfiguration\bin\Debug\netcoreapp3.1\HttpConfiguration.pdb
+C:\Users\Code\source\repos\HttpConfiguration\HttpConfiguration\obj\Debug\netcoreapp3.1\HttpConfiguration.dll
+C:\Users\Code\source\repos\HttpConfiguration\HttpConfiguration\obj\Debug\netcoreapp3.1\HttpConfiguration.pdb
